@@ -5,3 +5,8 @@ def test_add():
 
 def test_sub():
     assert 0 == sub(1,1)
+
+
+
+
+# pip freeze | grep pytest
